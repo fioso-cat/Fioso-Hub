@@ -1,0 +1,25 @@
+NOTICE
+
+This repository is licensed under the MIT License.
+
+The following conditions apply to the content:
+
+1. Files do not contain or encourage the use of "exploit" or "cheat" functions.  
+   Any such terms, if present, are for undefined or placeholder functionality only.  
+
+2. Files do not collect or transmit IP addresses, physical locations, or personal data.  
+   Only game-related data and local player data (e.g. for Welcome Tab) may be accessed.  
+
+3. Files do not log data to any external backend, except as needed to fetch or execute resources required by the repository (e.g. `HttpGet` for `Loader.lua`).  
+
+4. Files may include examples of modifying gameplay, events, or workbench behavior for educational purposes.  
+   Such examples are not intended for abusive use.  
+
+5. Files may access Roblox services such as `Players`, `Workspace`, `CoreGui`, and standard libraries.  
+   Any additional services accessed are used only for educational or functional demonstration.  
+
+6. Files may collect minimal metadata related to repository updates.  
+   This is used solely to keep the hub up to date.  
+   If updates stop, it may indicate that the project is paused, patched, or access has been lost.  
+
+This repository is for **educational purposes only** and is not intended for malicious use.
